@@ -12,4 +12,4 @@ askFinz off the browser tab: a desktop app for Windows, macOS and Linux with its
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-05.
+Generated 2026-10-06.
